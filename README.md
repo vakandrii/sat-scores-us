@@ -23,7 +23,7 @@ The project is organized as follows:
 1. **Setup**
    - Clone this repository to your local machine.
       ```bash
-      git clone https://github.com/your_username/your_repository.git
+      git clone https://github.com/vakandrii/sat-scores-us.git
       ```
    - Navigate to the project directory.
    - Launch Jupyter Notebook:
