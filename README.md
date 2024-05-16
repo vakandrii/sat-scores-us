@@ -1,4 +1,4 @@
-# Crimes by NUTS 3 regions
+# SAT scores in USA
 
 > This project is developed in a **group of 3 people**.
 
